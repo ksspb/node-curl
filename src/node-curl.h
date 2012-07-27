@@ -404,7 +404,7 @@ class NodeCurl
 			X(QUOTE),
 			X(POSTQUOTE),
 			X(PREQUOTE),
-			X(RESOLVE),
+		/*	X(RESOLVE), */
 			X(TELNETOPTIONS)
 		};
 		#undef X
